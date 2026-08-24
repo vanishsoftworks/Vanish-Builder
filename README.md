@@ -1,6 +1,7 @@
 # Vanish-Grabber
 
-This is repo is to show how easy it is to bypass most windows/av detections, now this can be harmful if used WRONG !!
+This is vanish grabber, vanish is a undetected python windows supported info stealer.
+This project is fully opensource and fully free with 0 paywall.
 
 ---
 
