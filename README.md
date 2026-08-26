@@ -21,11 +21,6 @@ Vanish-Builder currently maintains a fully undetected status across major securi
 ---
 
 ## VirusTotal Analysis
-
-You can verify the latest scan results directly on VirusTotal.
-
-[**View Full VirusTotal Report**](https://www.virustotal.com/gui/file/439efb2cc55ed09c053da02b69d3cf31770c5e1fdd5d3e2d561d7564d5c3e6d3?nocache=1)
-
 <br>
 
 <div align="center">
