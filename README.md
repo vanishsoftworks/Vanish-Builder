@@ -33,30 +33,12 @@
 
 ---
 
-## Security & Detections
-
-Vanish-Builder currently maintains a **fully undetected** status across major security platforms:
-
-| Security Software | Status |
-| :--- | :--- |
-| **Malwarebytes** | `🟢 Fully Undetected` |
-| **Windows Defender** | `🟢 Fully Undetected` |
-
-### VirusTotal Analysis
-
-<div align="center">
-  <a href="https://www.virustotal.com/gui/file/439efb2cc55ed09c053da02b69d3cf31770c5e1fdd5d3e2d561d7564d5c3e6d3?nocache=1">
-  </a>
-  <br>
-</div>
-
 ## Community
 
 Join our community for support, updates, and discussions!
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HzHu5U6bm5)
 
----
 
 ## Disclaimer
 
