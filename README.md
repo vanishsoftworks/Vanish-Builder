@@ -12,6 +12,31 @@
 
 ---
 
+## Requirements
+
+- Python 3.8+
+- Windows 10/11
+- Internet connection (for updates)
+
+
+## Installation
+
+1. Download the latest release from the **Releases** page.
+2. Extract the archive.
+3. Run the application.
+4. Configure your project and build settings.
+
+---
+
+---
+
+## Links
+- [Discord](https://discord.gg/HzHu5U6bm5)
+
+---
+
+<div align="center">
+
 ## Detections
 
 Vanish-Builder currently maintains a fully undetected status across major security platforms:
@@ -31,3 +56,8 @@ Vanish-Builder currently maintains a fully undetected status across major securi
     <img width="600" alt="VirusTotal Scan Results" src="https://github.com/user-attachments/assets/f8b5c3d9-99bb-4327-a978-8d420c194469" />
   </a>
 </div>
+
+
+## Disclaimer
+
+This project is intended for educational and research purposes only. Users are responsible for compliance with local laws and regulations.
