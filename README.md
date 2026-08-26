@@ -7,6 +7,8 @@
 
 </div>
 
+<img width="650" height="366" alt="Vanish-Nouveau-Logo-650x366" src="https://github.com/user-attachments/assets/f1c45152-95f5-4bc7-a6df-75001e0ae6c8" />
+
 ---
 
 ## Detections
