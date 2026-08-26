@@ -22,7 +22,7 @@
 
 - **Python:** 3.8 or higher
 - **OS:** Windows 10 / 11
-- **Network:** Active Internet connection (required for updates)
+- **Network:** Active Internet connection
 
 ## Installation
 
