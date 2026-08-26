@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Vanish Stealer
+#   Vanish Stealer
 *Advanced, Stealthy, and Reliable.*
 
 <!-- Badges -->
@@ -18,13 +18,13 @@
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - **Python:** 3.8 or higher
 - **OS:** Windows 10 / 11
 - **Network:** Active Internet connection (required for updates)
 
-## 🚀 Installation
+## Installation
 
 1. **Download** the latest release from the **Releases** page.
 2. **Extract** the downloaded archive to your preferred location.
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛡️ Security & Detections
+## Security & Detections
 
 Vanish-Builder currently maintains a **fully undetected** status across major security platforms:
 
@@ -46,15 +46,11 @@ Vanish-Builder currently maintains a **fully undetected** status across major se
 
 <div align="center">
   <a href="https://www.virustotal.com/gui/file/439efb2cc55ed09c053da02b69d3cf31770c5e1fdd5d3e2d561d7564d5c3e6d3?nocache=1">
-    <img width="70%" alt="VirusTotal Scan Results" src="https://github.com/user-attachments/assets/f8b5c3d9-99bb-4327-a978-8d420c194469" />
   </a>
   <br>
-  <i>Click the image above to view the full VirusTotal report.</i>
 </div>
 
----
-
-## 💬 Community
+## Community
 
 Join our community for support, updates, and discussions!
 
@@ -62,6 +58,6 @@ Join our community for support, updates, and discussions!
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > **Important:** This project is intended for **educational and research purposes only**. The developers assume no liability and are not responsible for any misuse or damage caused by this program. Users are solely responsible for compliance with their local laws and regulations.
