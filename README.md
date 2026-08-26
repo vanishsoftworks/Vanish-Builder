@@ -1,10 +1,4 @@
-# Vanish-Grabber
-
-
-This is Vanish Grabber, a Python-based Windows information stealer designed to evade detection.
-
-This project is fully open source and completely free, with no paywalls.
-This also includes a discord rat, this is also very undetected
+# Vanish-Builder
 
 ---
 
