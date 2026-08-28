@@ -6,9 +6,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://python.org)
 [![Windows 10/11](https://img.shields.io/badge/OS-Windows_10%2F11-blue?style=for-the-badge&logo=windows)](https://microsoft.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HzHu5U6bm5)
 [![Stars](https://img.shields.io/github/stars/vanishsoftworks/Vanish-Builder?style=for-the-badge&logo=github)](https://github.com/vanishsoftworks/Vanish-Builder)
-[![Forks](https://img.shields.io/github/forks/vanishsoftworks/Vanish-Builder?style=for-the-badge&logo=github)](https://github.com/vanishsoftworks/Vanish-Builder)
 
 <br>
 
