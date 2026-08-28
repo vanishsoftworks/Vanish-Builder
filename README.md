@@ -1,6 +1,6 @@
 <div align="center">
 
-#   Vanish Builder Beta
+#   Vanish Builder
 *Undetected, Clean UI, Fast Performance.*
 
 <!-- Badges -->
