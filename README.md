@@ -4,8 +4,6 @@
 *Advanced, Stealthy, and Reliable.*
 
 <!-- Badges -->
-[![Malwarebytes - Undetected](https://img.shields.io/badge/Malwarebytes-Undetected-2ea44f?style=for-the-badge&logo=malwarebytes)](#)
-[![Windows Defender - Undetected](https://img.shields.io/badge/Windows_Defender-Undetected-2ea44f?style=for-the-badge&logo=windows)](#)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](#)
 [![Windows 10/11](https://img.shields.io/badge/OS-Windows_10%2F11-blue?style=for-the-badge&logo=windows)](#)
 
