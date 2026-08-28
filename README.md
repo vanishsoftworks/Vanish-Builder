@@ -11,7 +11,9 @@
 <img width="80%" alt="Vanish-Builder Banner" src="https://github.com/user-attachments/assets/ffbd0097-a5a5-4e2f-9999-534b7e12a8a0" />
 
 </div>
+
 ---
+
 ## STEALER MODULES
 - System Information (CPU, RAM, OS, Admin, MAC, IPs)
 - Screenshot (Multi-monitor)
@@ -84,7 +86,6 @@
 - `.ping` - Check status
 
 ---
-
 
 ## Requirements
 
