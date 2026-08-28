@@ -15,14 +15,14 @@
 ---
 
 ## STEALER MODULES
-- System Information (CPU, RAM, OS, Admin, MAC, IPs)
+- System Information
 - Screenshot (Multi-monitor)
 - Webcam Capture
 - Process List
-- Startup Programs (Registry + Startup Folder)
+- Startup Programs
 - Installed Apps
 - WiFi Passwords
-- Browser Passwords (Chrome, Edge, Brave, Opera, Vivaldi, Arc, Yandex, Thorium)
+- Browser Passwords
 - Browser Cookies
 - Browser Autofill
 - Credit Cards
@@ -36,7 +36,7 @@
 - Telegram Sessions
 - Clipboard
 - Environment Variables
-- File Scanner (wallets, keys, nitro, accounts)
+- File Scanner (nitro, accounts, cheat keys)
 - Display Info
 - Windows Product Key
 
