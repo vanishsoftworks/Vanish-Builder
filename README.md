@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⭐ Vanish Builder ⭐
+# 🎀 Vanish Builder 🎀
 
 **Undetected · Clean UI · Fast Performance**
 
