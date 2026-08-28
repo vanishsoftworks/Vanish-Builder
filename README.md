@@ -1,6 +1,6 @@
 <div align="center">
 
-#   Vanish Stealer
+#   Vanish Builder Beta
 *Advanced, Stealthy, and Reliable.*
 
 <!-- Badges -->
