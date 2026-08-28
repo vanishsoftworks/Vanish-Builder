@@ -1,7 +1,7 @@
 <div align="center">
 
 #   Vanish Builder Beta
-*Advanced, Stealthy, and Reliable.*
+*Undetected, Clean UI, Fast Performance.*
 
 <!-- Badges -->
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](#)
