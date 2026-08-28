@@ -56,6 +56,7 @@
 - Add to Startup
 - Discord Inject
 - Steam Inject
+- Root Kit (Soon)
 
 ## SPOOFING
 - Megabyte Spoofer
