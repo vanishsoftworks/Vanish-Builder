@@ -22,8 +22,6 @@
 - **OS:** Windows 10 / 11
 
 
-# FEATURES
-
 ## STEALER MODULES
 - System Information (CPU, RAM, OS, Admin, MAC, IPs)
 - Screenshot (Multi-monitor)
@@ -63,9 +61,6 @@
 - Megabyte Spoofer
 - Fake Error Message
 
-
----
-
 ## R4T COMMANDS
 - `.info` - System info
 - `.geo` - Network info
@@ -97,6 +92,7 @@
 - `.ls` - List directory
 - `.ping` - Check status
 
+---
 
 ## Community
 
