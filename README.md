@@ -54,7 +54,7 @@
 - Megabyte Spoofer
 - Fake Error Message
 
-## R4T COMMANDS
+## RAT FEATURES
 - `.info` - System info
 - `.geo` - Network info
 - `.wifi` - WiFi passwords
