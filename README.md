@@ -3,25 +3,15 @@
 #   Vanish Builder
 *Undetected, Clean UI, Fast Performance.*
 
-<!-- Badges -->
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](#)
 [![Windows 10/11](https://img.shields.io/badge/OS-Windows_10%2F11-blue?style=for-the-badge&logo=windows)](#)
 
 <br>
 
-<!-- Main Banner -->
 <img width="80%" alt="Vanish-Builder Banner" src="https://github.com/user-attachments/assets/ffbd0097-a5a5-4e2f-9999-534b7e12a8a0" />
 
 </div>
-
 ---
-
-## Requirements
-
-- **Python:** 3.8 or higher
-- **OS:** Windows 10 / 11
-
-
 ## STEALER MODULES
 - System Information (CPU, RAM, OS, Admin, MAC, IPs)
 - Screenshot (Multi-monitor)
@@ -95,8 +85,13 @@
 
 ---
 
-## Community
 
+## Requirements
+
+- **Python:** 3.8 or higher
+- **OS:** Windows 10 / 11
+
+## Community
 Join our community for support, updates.
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HzHu5U6bm5)
