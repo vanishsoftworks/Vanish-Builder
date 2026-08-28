@@ -20,12 +20,12 @@
 
 - **Python:** 3.8 or higher
 - **OS:** Windows 10 / 11
-- **Network:** Active Internet connection
 
 ## Community
-Join our community for support, updates.
-[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HzHu5U6bm5)
 
+Join our community for support, updates.
+
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HzHu5U6bm5)
 
 ## Disclaimer
 
