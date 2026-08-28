@@ -44,7 +44,7 @@
 - Telegram Sessions
 - Clipboard
 - Environment Variables
-- File Scanner (wallets, keys, certs, secrets)
+- File Scanner (wallets, keys, nitro, accounts)
 - Display Info
 - Windows Product Key
 
