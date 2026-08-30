@@ -14,11 +14,6 @@
 </div>
 
 
-## ★ Requirements
-
-- **Python:** 3.8+  
-- **OS:** Windows 10 / 11  
-
 ---
 
 ## ★ Disclaimer
