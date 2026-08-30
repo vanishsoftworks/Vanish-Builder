@@ -20,11 +20,6 @@
 - **Python:** 3.8+  
 - **OS:** Windows 10 / 11  
 
-
-## ★ Community
-
-[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HzHu5U6bm5)
-
 ---
 
 ## ★ Disclaimer
