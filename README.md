@@ -11,8 +11,6 @@
 
 <img width="80%" alt="Vanish Builder Banner" src="https://github.com/user-attachments/assets/ffbd0097-a5a5-4e2f-9999-534b7e12a8a0" />
 
-</div>
-
 ---
 
 <div align="center">
@@ -21,4 +19,3 @@
 > The developers assume no liability for misuse or damage caused by this program.  
 > Users are solely responsible for compliance with local laws and regulations.
 
-</div>
