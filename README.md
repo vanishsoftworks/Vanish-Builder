@@ -2,7 +2,7 @@
 
 # 🎀 Vanish Builder 🎀
 
-**Undetected · Clean UI · Fast Performance**
+**Undetected & Safe · Non Dual-Hooked · Webhook Protection · Token Protection**
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://python.org)
 [![Windows 10/11](https://img.shields.io/badge/OS-Windows_10%2F11-blue?style=for-the-badge&logo=windows)](https://microsoft.com)
