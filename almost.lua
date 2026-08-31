@@ -1,0 +1,2 @@
+-- This project is stil being created & improved, this will take some time. 
+-- I made this repo very early on bc i wanted to have it ready for the release, thank you for understanding <3
