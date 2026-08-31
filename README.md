@@ -3,6 +3,7 @@
 # 🎀 Vanish Builder 🎀
 
 **Undetected & Safe · Non Dual-Hooked · Webhook & Token Protection**
+
 [![Windows 10/11](https://img.shields.io/badge/OS-Windows_10%2F11-blue?style=for-the-badge&logo=windows)](https://microsoft.com)
 
 <br>
