@@ -17,14 +17,8 @@
 
 <div align="center">
 
-## ★ Disclaimer
-
 > **This project is for educational and research purposes only.**  
 > The developers assume no liability for misuse or damage caused by this program.  
 > Users are solely responsible for compliance with local laws and regulations.
-
-<div align="center">
-
-**⭐ If you like this project, give it a star! ⭐**
 
 </div>
