@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 Vanish Builder (beta) 🎀
+# Vanish Builder
 
 **Undetected & Safe · Non Dual-Hooked · Webhook & Token Protection**
 
